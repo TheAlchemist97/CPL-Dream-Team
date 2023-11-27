@@ -1,0 +1,173 @@
+Min,Age,Position,firstName,lastName,player,team,SOG,SOTInBox,SOTOBox,PenGoal,GoalHead,ExpG,Goal,Ast,ExpA,BgChncCrtd,Chance,SucflDuels,ThrghBlCmp,SucflTkls,Int,DefTouch,Clrnce,Recovery,CleanSheet,Saves
+2470,23,Left Centre Back,Daniel,Krutzen,D. Krutzen,Forge,5,3,2,0,1,1.32,1,2,1.56,2,19,114,0,24,46,198,96,154,0,0
+2425,25,Right Centre Back,Dominick,Zator,D. Zator,Cavalry,7,6,1,0,1,3.09,1,2,3.08,5,14,174,1,33,51,174,76,142,0,0
+2159,24,Central Midfielder,Manuel,Aparicio,M. Aparicio,York9,12,4,8,0,0,2.3,2,2,2.2,1,37,149,1,29,31,98,8,160,0,0
+2443,29,Central Midfielder,Kyle,Bekker,K. Bekker,Forge,19,6,13,0,0,5.85,4,5,5.29,10,44,63,1,17,18,63,20,162,0,0
+2520,24,Right Centre Back,Luca,Gasparotto,L. Gasparotto,York9,5,5,0,0,1,1.54,1,0,1.51,2,9,182,0,24,49,200,117,137,0,0
+2250,25,Right Back,Morey,Doner,M. Doner,York9,1,1,0,0,0,0.15,1,4,2.36,4,16,145,0,27,32,119,35,155,0,0
+1814,20,Left Back,Diyaeddine,Abzi,D. Abzi,York9,11,9,2,0,0,1.56,1,4,3.32,5,22,134,0,35,48,134,31,155,0,0
+2429,24,Left Centre Back,Mélé,Temguia,M. Temguia,Edmonton,5,5,0,0,0,2.41,2,0,0.6,1,4,140,0,41,51,197,82,147,0,0
+1974,23,Left Back,Kwame,Awuah,K. Awuah,Forge,1,0,1,0,0,0.21,0,5,3.45,5,29,132,0,43,41,131,20,162,0,0
+1964,26,Right Back,Giuliano,Frano,G. Frano,Forge,2,2,0,0,1,1.34,1,0,1.19,2,12,129,0,40,41,138,33,149,0,0
+2004,28,Left Back,Blake,Smith,B. Smith,Pacific,0,0,0,0,0,0.29,0,5,2.81,5,20,87,0,26,43,137,53,145,0,0
+2216,25,Left Midfielder,Ryan,Telfer,R. Telfer,York9,29,17,12,0,1,7.15,8,1,5.59,7,66,202,1,37,23,83,8,130,0,0
+1768,26,Central Midfielder,Julian,Buescher,J. Buescher,Cavalry,13,3,10,0,0,2.76,5,4,6.53,12,41,134,0,43,30,109,16,187,0,0
+2053,29,Right Back,André,Bona,A. Bona,HFX Wanderers,3,3,0,0,0,1.69,0,0,1.29,2,15,150,0,50,32,189,76,161,0,0
+1746,24,Central Midfielder,Alexander,Gonzalez Moreno,A. Gonzalez,Pacific,4,1,3,0,0,1.14,0,2,1.21,3,8,117,0,29,21,83,15,163,0,0
+2021,26,Left Back,Nathan,Mavila,N. Mavila,Cavalry,0,0,0,0,0,0.03,0,1,1.1,1,7,141,0,33,22,129,45,112,0,0
+1970,26,Left Back,Allan,Zebie,A. Zebie,Edmonton,1,1,0,0,0,0.24,0,0,0.41,0,5,103,1,34,27,107,31,100,0,0
+1719,23,Right Centre Back,Joel,Waterman,J. Waterman,Cavalry,4,3,1,0,0,1.18,1,2,1.69,2,10,117,0,23,47,131,45,139,0,0
+2249,23,Centre Attacking Midfielder,Marco,Bustos,M. Bustos,Valour,27,16,11,2,0,6.7,7,3,4.29,4,43,144,0,19,12,37,3,105,0,0
+2032,21,Right Back,Kadin,Chung,K. Chung,Pacific,1,1,0,0,0,0.3,1,2,1.33,1,17,111,0,42,31,134,42,139,0,0
+2133,25,Right Centre Back,Dominic,Samuel,D. Samuel,Forge,0,0,0,0,0,0.05,0,1,0.37,1,5,125,0,30,31,155,75,110,0,0
+2010,30,Central Midfielder,Ramon,Soria,Soria,Edmonton,4,2,2,0,0,0.76,1,3,2.86,4,29,79,0,24,32,98,26,146,0,0
+1973,21,Centre Attacking Midfielder,Tristan,Borges,T. Borges,Forge,37,26,11,3,0,9.35,13,5,4.08,5,44,186,0,39,23,88,0,145,0,0
+1755,27,Defensive Midfielder,Joseph,Di Chiara,J. Di Chiara,York9,5,2,3,2,0,2.7,2,1,1.27,1,16,140,1,32,30,100,18,125,0,0
+1798,23,Right Back,Jeannot,Esua,J. Esua,Edmonton,1,1,0,0,0,0.47,0,2,1.87,3,15,108,0,18,33,102,40,128,0,0
+1850,20,Central Midfielder,Noah,Verhoeven,N. Verhoeven,Pacific,5,1,4,0,0,1.44,0,1,3.17,5,25,87,2,19,12,47,9,134,0,0
+1718,24,Defensive Midfielder,Wataru,Murofushi,W. Murofushi,York9,9,6,3,1,0,2.57,3,0,1.82,2,25,101,1,29,18,65,2,149,0,0
+1988,29,Left Midfielder,Mohamed,Kourouma,M. Kourouma,HFX Wanderers,17,6,11,1,0,4.2,1,3,6.82,13,44,123,2,40,17,86,10,169,0,0
+2003,24,Central Midfielder,Andre,Rampersad,A. Rampersad,HFX Wanderers,6,6,0,0,0,0.76,1,1,1.23,1,20,132,1,36,35,128,40,165,0,0
+1704,24,Right Centre Back,Lukas,MacNaughton,L. MacNaughton,Pacific,2,2,0,0,2,1.26,2,0,0,0,0,77,0,14,29,146,95,71,0,0
+1756,26,Left Centre Back,Bertrand,Owundi,B. Owundi,Forge,0,0,0,0,0,0.33,0,0,0,0,0,72,0,13,24,138,92,92,0,0
+1604,22,Central Midfielder,Diego,Gutiérrez,D. Gutiérrez,Valour,3,2,1,0,0,0.96,0,1,1.36,1,22,119,1,28,21,91,21,139,0,0
+1727,24,Central Midfielder,Ajay,Khabra,A. Khabra,Edmonton,1,1,0,0,0,1.02,0,0,1.29,2,7,101,0,27,15,58,1,112,0,0
+1891,33,Left Centre Back,Mason,Trafford,M. Trafford,Cavalry,3,2,1,0,0,1.16,0,0,0.34,0,5,52,0,5,15,86,57,79,0,0
+1575,23,Central Midfielder,Elijah,Adekugbe,E. Adekugbe,Cavalry,1,0,1,0,0,0.45,1,4,2.33,7,13,118,2,27,17,76,17,119,0,0
+2094,25,Left Centre Back,Matthew,Arnone,M. Arnone,HFX Wanderers,3,3,0,0,1,2.1,2,0,0.22,0,6,106,0,20,49,179,99,112,0,0
+1943,24,Right Attacking Midfielder,Nico,Pasquotti,N. Pasquotti,Cavalry,16,16,0,0,1,5.77,5,3,3.6,6,25,186,0,30,13,75,11,114,0,0
+1650,24,Right Centre Back,Amer,Didic,A. Didic,Edmonton,10,8,2,0,0,1.82,0,3,2.02,2,16,105,0,20,25,163,109,92,0,0
+2340,26,Goalkeeper,Nathan,Ingham,N. Ingham,York9,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,12,12,38,6,88
+1731,19,Central Midfielder,Alessandro,Hojabrpour,A. Hojabrpour,Pacific,2,1,1,0,0,0.92,0,0,0.89,1,12,100,1,38,20,121,41,98,0,0
+1772,24,Defensive Midfielder,Louis,Béland-Goyette,L. Béland-Goyette,Valour,2,0,2,0,0,0.41,1,3,1.96,1,28,103,2,41,32,105,19,142,0,0
+1809,21,Left Centre Back,Matthew,Baldisimo,M. Baldisimo,Pacific,2,0,2,0,0,0.79,0,0,0.53,0,12,103,0,28,25,101,29,107,0,0
+1916,29,Central Midfielder,Kyle,Porter,K. Porter,York9,20,11,9,0,1,4.39,2,4,2.67,2,31,108,1,33,22,82,12,100,0,0
+1551,22,Left Centre Back,Daniel,Gogarty,D. Gogarty,York9,0,0,0,0,0,1.04,0,0,0.22,0,6,62,0,19,21,93,40,73,0,0
+1894,26,Right Centre Back,Skylar,Thomas,S. Thomas,Valour,3,3,0,0,0,0.93,0,1,1.49,3,8,113,0,24,23,164,102,100,0,0
+1461,24,Defensive Midfielder,Raphael,Ohin,R. Ohin,Valour,4,0,4,0,0,0.84,0,0,0.34,0,8,109,0,26,20,93,32,155,0,0
+1698,33,Defensive Midfielder,James,Marcelin,J. Marcelin,Edmonton,2,0,2,0,0,0.25,0,0,0.66,1,7,91,0,18,27,105,50,127,0,0
+1760,23,Central Midfielder,Alexander,Achinioti-Jönsson,A. Achinioti-Jönsson,Forge,1,1,0,0,0,0.75,0,2,1.17,2,6,126,1,30,43,122,36,110,0,0
+1534,28,Left Back,Martín,Arguiñarena,M. Arguiñarena,Valour,2,0,2,0,0,0.46,0,1,0.71,0,13,118,0,35,35,114,18,84,0,0
+1730,24,Central Midfielder,Elimane,Cissé,E. Cissé,Forge,9,7,2,0,0,3.26,2,2,2.53,6,12,105,0,31,32,100,17,151,0,0
+1958,27,Centre Forward,Rodrigo,Gattas,R. Gattas,York9,36,26,10,2,2,9.19,9,0,1.99,3,23,95,1,13,13,39,9,87,0,0
+1784,26,Left Centre Back,Jordan,Murrell,J. Murrell,Valour,3,3,0,0,0,0.74,0,0,0.21,0,5,107,0,27,26,139,63,88,0,0
+1766,24,Left Midfielder,Bruno,Zebie,B. Zebie,Edmonton,6,3,3,0,0,1.56,1,0,0.54,0,8,99,0,29,21,81,13,91,0,0
+1586,25,Left Winger,Victor,Blasco,Victor Blasco,Pacific,18,8,10,0,0,2.9,6,3,3.79,6,27,164,0,28,2,50,4,92,0,0
+1281,21,Left Back,Ndzemdzela,Langwa,N. Langwa,HFX Wanderers,3,2,1,0,0,0.32,0,0,0.49,0,10,154,0,47,14,108,20,93,0,0
+1976,25,Centre Forward,Oumar,Diouck,O. Diouck,Edmonton,16,8,8,0,1,4.91,6,2,3.48,5,30,113,0,21,5,48,6,105,0,0
+2334,21,Centre Forward,Terran,Campbell,T. Campbell,Pacific,23,18,5,1,4,8.88,11,2,2.91,3,31,118,2,25,9,52,4,81,0,0
+1497,31,Right Centre Back,Jonathan,Wheeldon,J. Wheeldon,Cavalry,0,0,0,0,0,0.75,0,0,0.07,0,1,66,0,12,14,103,71,62,0,0
+1530,23,Right Centre Back,Peter,Schaale,P. Schaale,HFX Wanderers,5,4,1,0,0,2.14,1,1,1.03,1,4,107,0,29,24,166,100,91,0,0
+2250,24,Goalkeeper,Marco,Carducci,M. Carducci,Cavalry,0,0,0,0,0,0,0,0,0.03,0,1,11,0,0,0,7,7,32,9,66
+1979,23,Goalkeeper,Connor,James,C. James,Edmonton,0,0,0,0,0,0,0,0,0,0,0,12,0,1,1,17,15,21,7,67
+1275,20,Right Back,Malyk,Hamilton,M. Hamilton,Cavalry,1,1,0,0,0,0.55,0,2,0.73,1,8,64,0,19,8,57,12,82,0,0
+1613,24,Left Attacking Midfielder,José,Escalante,J. Escalante,Cavalry,17,11,6,1,0,4.59,4,4,4.8,9,29,109,0,24,8,55,9,84,0,0
+1285,21,Right Back,Zachary,Verhoven,Z. Verhoven,Pacific,9,5,4,0,0,2.97,2,2,3.7,6,20,137,0,32,20,94,27,91,0,0
+1663,26,Right Attacking Midfielder,Ben,Fisk,B. Fisk,Pacific,19,14,5,0,0,5.99,6,5,2.84,4,29,52,0,22,2,40,8,91,0,0
+1161,28,Left Centre Back,Hendrik,Starostzik,H. Starostzik,Pacific,2,2,0,0,1,0.86,1,0,0.14,0,3,48,0,11,25,111,72,61,0,0
+1435,32,Central Midfielder,Elton,John,E. John,HFX Wanderers,3,2,1,0,0,0.53,0,1,0.34,0,7,93,0,30,21,94,28,106,0,0
+1246,27,Left Back,Alex,De Carolis,A. De Carolis,HFX Wanderers,4,0,4,0,0,0.45,0,0,0.62,0,11,62,0,21,14,87,34,78,0,0
+1979,26,Goalkeeper,Triston,Henry,T. Henry,Forge,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,13,13,27,9,56
+1961,30,Centre Forward,Dominique,Malonga,D. Malonga,Cavalry,34,29,5,1,1,15.56,11,1,3.55,5,19,90,0,1,2,17,13,51,0,0
+1441,24,Central Midfielder,Dylan,Carreiro,D. Carreiro,Valour,9,3,6,0,0,1.28,2,2,2.66,4,25,63,0,10,4,22,2,78,0,0
+1859,31,Centre Forward,Tomi,Ameobi,T. Ameobi,Edmonton,10,10,0,1,1,4.22,4,0,2.15,3,22,135,0,15,7,48,14,63,0,0
+1497,24,Left Attacking Midfielder,Christopher,Nanco,C. Nanco,Forge,12,10,2,0,0,2.32,4,2,2.51,6,21,72,1,8,13,41,6,89,0,0
+1317,34,Central Midfielder,Nikolas,Ledgerwood,N. Ledgerwood,Cavalry,9,5,4,2,0,2.85,3,0,1.56,2,14,86,0,25,22,78,12,114,0,0
+2082,23,Centre Forward,Akeem,Garcia,A. Garcia,HFX Wanderers,23,22,1,0,0,6.62,7,0,1.3,2,15,106,1,16,2,32,5,94,0,0
+1513,26,Left Centre Back,Adam,Mitter,A. Mitter,Valour,0,0,0,0,0,0.12,0,0,0.1,0,2,64,0,13,29,96,50,46,0,0
+1217,20,Left Centre Back,Chrisnovic,N'Sa,C. N'Sa,HFX Wanderers,1,0,1,0,0,0.73,0,0,0.06,0,2,71,0,17,25,97,44,82,0,0
+1136,24,Centre Attacking Midfielder,Dylan,Sacramento,D. Sacramento,Valour,6,3,3,0,0,1.47,1,1,0.71,1,16,71,1,19,11,51,10,75,0,0
+1389,21,Centre Forward,Tomasz,Skublak,T. Skublak,HFX Wanderers,13,11,2,0,0,4.78,1,1,1.48,1,20,142,0,13,10,39,11,44,0,0
+1301,24,Centre Forward,Michael,Petrasso,M. Petrasso,Valour,13,8,5,4,0,6.57,6,5,3.78,4,22,62,0,6,3,21,7,51,0,0
+943,20,Right Back,Raphaël,Garcia,R. Garcia,Valour,1,0,1,0,0,0.13,0,2,1.31,1,9,77,0,36,9,88,20,44,0,0
+1440,27,Goalkeeper,Mark,Village,M. Village,Pacific,0,0,0,0,0,0,0,0,0,0,0,7,0,1,1,5,3,14,4,47
+881,26,Central Midfielder,Edem,Mortotsi,E. Mortotsi,Edmonton,8,4,4,0,0,1.35,0,2,1.11,1,12,64,1,12,9,36,3,78,0,0
+915,19,Right Centre Back,Emile,Legault,E. Legault,Pacific,0,0,0,0,0,0.1,0,0,0.03,0,1,61,0,22,21,97,41,59,0,0
+1240,27,Right Midfielder,Juan Diego,Gutiérrez,J. Gutiérrez,HFX Wanderers,5,2,3,0,1,1.21,2,0,0.99,1,12,87,0,15,11,41,5,77,0,0
+901,33,Defensive Midfielder,José Antonio,Pedrosa Galán,Galán,Valour,1,0,1,0,0,0.3,0,0,0.46,0,9,55,0,16,5,48,15,68,0,0
+1440,28,Goalkeeper,Tyson,Farago,T. Farago,Valour,0,0,0,0,0,0,0,0,0.21,0,3,6,0,0,0,8,6,18,2,47
+969,21,Central Midfielder,Elliot,Simmons,E. Simmons,HFX Wanderers,0,0,0,0,0,0.09,0,0,0.42,0,9,51,0,17,18,57,11,99,0,0
+882,26,Right Back,Jonathan,Grant,J. Grant,Forge,2,2,0,0,0,0.58,1,1,1.33,2,7,58,0,22,13,60,15,40,0,0
+802,27,Left Centre Back,Roger,Thompson,R. Thompson,York9,0,0,0,0,0,0.45,0,0,0.69,1,4,36,0,4,15,66,40,40,0,0
+1260,25,Centre Attacking Midfielder,Sergio,Camargo,S. Camargo,Cavalry,11,10,1,0,0,5.96,6,3,3.44,6,22,57,1,8,9,31,4,68,0,0
+1180,24,Centre Attacking Midfielder,Kodai,Iida,K. Iida,HFX Wanderers,6,4,2,0,0,1.48,1,2,1.38,1,19,73,0,8,7,21,1,56,0,0
+1467,27,Centre Attacking Midfielder,Oliver,Minatel,Oliver Minatel,Cavalry,12,11,1,0,2,6.64,7,1,2.8,4,16,94,1,14,13,51,9,57,0,0
+1489,23,Goalkeeper,Christian,Oxner,C. Oxner,HFX Wanderers,0,0,0,0,0,0,0,0,0.05,0,1,10,0,0,1,8,7,9,6,43
+834,32,Right Centre Back,David,Edgar,D. Edgar,Forge,2,2,0,0,1,0.99,1,0,0,0,0,29,0,6,8,56,36,39,0,0
+998,22,Right Attacking Midfielder,David,Choinière,D. Choinière,Forge,8,8,0,0,0,4.97,2,2,1.58,2,10,63,2,14,3,28,1,84,0,0
+969,29,Right Back,Kareem,Moses,K. Moses,Edmonton,1,0,1,0,0,0.76,0,0,0.19,0,4,80,0,15,14,64,26,48,0,0
+1422,26,Centre Forward,Simon,Karlsson Adjei,S. Karlsson Adjei,York9,16,14,2,0,0,7.56,7,2,1.49,1,21,84,0,10,2,23,6,29,0,0
+1080,24,Goalkeeper,Nolan,Wirth,N. Wirth,Pacific,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,12,11,17,1,59
+952,28,Right Back,Yong-Chan,Son,Son Yong-Chan,Edmonton,1,0,1,0,0,0.08,0,1,0.77,0,16,48,0,21,8,42,3,50,0,0
+1397,23,Centre Forward,Jordan,Brown,J. Brown,Cavalry,13,11,2,0,1,7.07,4,1,3.13,6,17,67,0,15,2,32,4,58,0,0
+931,28,Centre Forward,Emery,Welshman,E. Welshman,Forge,9,8,1,1,0,5,3,2,2.03,3,15,59,2,10,3,26,6,39,0,0
+1073,21,Centre Forward,Marcel,Zajac,M. Zajac,Forge,11,10,1,0,1,5.01,1,3,2.87,5,13,61,0,10,4,21,4,51,0,0
+1080,21,Goalkeeper,Mathias,Janssens,M. Janssens,Valour,0,0,0,0,0,0,0,0,0,0,0,9,0,1,0,7,6,19,4,43
+744,28,Left Centre Back,Ryan,McCurdy,R. McCurdy,Pacific,0,0,0,0,0,0,0,0,0,0,0,42,0,8,13,64,35,47,0,0
+945,26,Right Centre Back,Justin,Springer,J. Springer,York9,1,1,0,0,0,0.05,0,0,0.03,0,1,51,0,13,10,79,47,36,0,0
+609,28,Right Midfielder,Dean,Northover,D. Northover,Cavalry,0,0,0,0,0,0.05,0,0,0.42,1,4,52,0,13,15,48,10,32,0,0
+1167,21,Centre Forward,Easton,Ongaro,E. Ongaro,Edmonton,20,18,2,0,3,8.45,10,2,1.29,2,11,69,0,2,1,12,6,43,0,0
+1112,25,Centre Forward,Anthony,Novak,A. Novak,Forge,13,11,2,0,0,3.46,6,3,2.61,5,14,61,0,7,1,20,9,28,0,0
+533,26,Central Midfielder,Mauro,Eustaquio,M. Eustaquio,Cavalry,1,0,1,0,0,0.09,0,0,0.34,1,2,43,0,11,11,38,9,41,0,0
+1014,33,Centre Forward,Luis Alberto,Perea,L. Perea,HFX Wanderers,11,7,4,2,0,3.42,3,1,0.87,1,12,41,0,6,2,13,1,36,0,0
+596,21,Central Midfielder,David,Norman Jr.,D. Norman,Pacific,1,0,1,0,0,0.55,0,0,0.15,0,4,42,1,9,8,35,9,35,0,0
+841,24,Right Attacking Midfielder,Zachary,Sukunda,Z. Sukunda,HFX Wanderers,2,1,1,0,0,0.27,0,0,0.28,0,6,31,0,7,7,27,11,39,0,0
+1028,35,Goalkeeper,Jan-Michael,Williams,J. Williams,HFX Wanderers,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,4,4,23,2,40
+627,21,Central Midfielder,Estevez,Emilio,Emilio Estevez,York9,5,4,1,0,0,1.03,1,1,0.33,0,6,46,1,8,4,13,1,46,0,0
+678,24,Left Centre Back,Duran,Lee,D. Lee,HFX Wanderers,0,0,0,0,0,0.05,0,0,0.23,1,1,40,0,24,9,60,21,50,0,0
+652,19,Centre Forward,José,Hernández,J. Hernández,Pacific,7,5,2,0,1,1.84,1,2,1.39,2,6,62,0,17,5,32,4,39,0,0
+720,19,Left Centre Back,Yohan,Le Bourhis,Y. Le Bourhis,Valour,1,1,0,0,0,0.3,0,0,0,0,0,29,0,9,5,60,41,30,0,0
+541,22,Left Attacking Midfielder,Kadell,Thomas,K. Thomas,Forge,7,4,3,0,0,0.71,3,1,1.32,2,4,45,0,12,3,24,2,44,0,0
+740,23,Centre Forward,Ali,Musse,A. Musse,Valour,10,8,2,0,0,2.41,2,2,1.29,1,8,39,1,8,11,24,4,43,0,0
+1139,33,Centre Forward,Michele,Paolucci,M. Paolucci,Valour,11,7,4,0,0,3.05,3,2,0.86,1,6,60,0,6,0,15,8,23,0,0
+488,22,Left Midfielder,Nicolás,Galvis,N. Galvis,Valour,0,0,0,0,0,1.01,0,0,0.22,0,3,22,0,2,9,16,2,32,0,0
+517,21,Central Midfielder,Steven,Furlano,S. Furlano,York9,1,1,0,0,0,0.1,0,2,1.06,2,9,28,0,9,10,31,6,24,0,0
+999,18,Centre Forward,Tyler,Attardo,T. Attardo,Valour,11,9,2,0,3,4.35,6,0,0.71,1,7,42,0,6,5,26,6,36,0,0
+720,25,Goalkeeper,Quillan,Roberts,Q. Roberts,Forge,0,0,0,0,0,0,0,0,0,0,0,6,0,1,0,3,2,13,4,27
+277,22,Central Midfielder,Emmanuel,Zambazis,E. Zambazis,York9,0,0,0,0,0,0.02,0,1,0.06,0,2,18,0,2,7,14,2,30,0,0
+330,18,Central Midfielder,Ahmed,Alghamdi,A. Alghamdi,Pacific,4,1,3,0,0,0.34,1,0,0.06,0,2,21,0,7,1,13,3,13,0,0
+486,18,Right Attacking Midfielder,Marcus,Velado-Tsegaye,M. Velado-Tsegaye,Edmonton,6,3,3,0,0,1.57,1,1,0.41,1,4,29,0,4,4,13,1,23,0,0
+540,23,Goalkeeper,Dylon,Powley,D. Powley,Edmonton,0,0,0,0,0,0,0,0,0.04,0,1,3,0,0,0,2,2,5,1,20
+703,30,Centre Forward,Marcus,Haber,M. Haber,Pacific,6,6,0,1,2,4.19,3,0,1.36,1,9,75,0,2,1,10,7,21,0,0
+363,19,Left Back,Monti,Mohsen,M. Mohsen,Forge,1,0,1,0,0,0.15,1,0,0.63,1,4,26,0,5,5,23,6,10,0,0
+326,20,Right Back,Klaidi,Cela,K. Cela,Forge,1,1,0,0,0,0.33,1,1,0.49,1,2,34,0,6,5,38,18,14,0,0
+320,24,Central Midfielder,Carlos,Patiño,C. Patiño,Cavalry,2,1,1,0,0,0.82,0,1,0.28,0,5,32,0,6,5,15,1,33,0,0
+566,24,Centre Forward,Ajeej,Sarkaria,A. Sarkaria,Edmonton,2,1,1,0,0,0.9,0,1,0.4,1,2,25,0,10,3,19,3,33,0,0
+346,25,Central Midfielder,Philippe,Lincourt-Joseph,P. Lincourt-Joseph,Edmonton,1,0,1,0,0,0.21,0,0,0.4,1,3,28,0,6,3,20,4,21,0,0
+315,20,Right Midfielder,Federico,Peña,F. Peña,Valour,1,0,1,0,0,0.07,0,0,0.85,2,2,14,0,1,4,11,6,16,0,0
+192,30,Central Midfielder,Tony,Tchani,T. Tchani,Edmonton,2,1,1,0,0,0.45,0,0,0.05,0,1,23,0,2,3,11,4,23,0,0
+363,29,Centre Forward,Randy,Edwini-Bonsu,R. Edwini-Bonsu,Edmonton,6,2,4,0,0,0.59,0,1,1.57,2,10,26,1,5,3,10,0,21,0,0
+450,25,Goalkeeper,Nikolas,Giantsopoulos,N. Giantsopoulos,Cavalry,0,0,0,0,0,0,0,0,0.04,0,1,4,0,0,0,2,2,4,3,21
+365,20,Left Attacking Midfielder,Glenn,Muenkat,G. Muenkat,Valour,2,2,0,0,0,0.58,0,0,0.16,0,3,24,0,4,5,13,0,17,0,0
+352,28,Right Centre Back,Chakib,Hocine,C. Hocine,HFX Wanderers,0,0,0,0,0,0,0,0,0,0,0,9,0,2,8,22,12,16,0,0
+287,18,Central Midfielder,Scott,Firth,S. Firth,HFX Wanderers,2,0,2,0,0,0.19,0,0,0.06,0,1,12,0,2,4,16,3,15,0,0
+252,35,Centre Forward,Issey,Nakajima-Farran,I. Nakajima-Farran,Pacific,5,1,4,0,0,1.02,1,0,0.07,0,2,15,0,3,2,11,1,15,0,0
+255,34,Central Midfielder,Josip,Golubar,J. Golubar,Valour,1,0,1,0,0,0.1,0,0,0.96,2,3,12,0,2,1,6,1,15,0,0
+199,23,Right Attacking Midfielder,Austin,Ricci,A. Ricci,York9,0,0,0,0,0,0.43,0,1,0.37,1,4,20,0,1,3,10,1,13,0,0
+229,28,Defensive Midfielder,Kouamé,Ouattara,K. Ouattara,HFX Wanderers,0,0,0,0,0,0.04,0,0,0,0,0,8,0,2,3,8,2,12,0,0
+292,21,Centre Forward,Cyrus,Rollocks,C. Rollocks,York9,0,0,0,0,0,0.58,0,0,0.83,1,4,12,0,2,4,8,1,9,0,0
+237,27,Centre Forward,Stephen,Hoyle,S. Hoyle,Valour,2,2,0,0,0,2.04,1,0,0.12,0,3,9,0,2,0,2,0,3,0,0
+344,24,Centre Forward,Calum,Ferguson,C. Ferguson,Valour,3,3,0,0,0,1.24,1,0,0,0,0,10,0,4,0,6,2,8,0,0
+170,18,Left Attacking Midfielder,David,Doe,D. Doe,Edmonton,0,0,0,0,0,0.51,0,0,0,0,0,15,0,3,0,5,0,10,0,0
+137,18,Central Midfielder,Victor,Loturi,V. Loturi,Cavalry,0,0,0,0,0,0.36,0,0,0,0,0,9,0,4,3,9,0,12,0,0
+184,27,Centre Forward,Michael,Cox,M. Cox,York9,1,1,0,0,0,0.34,0,0,0.1,0,2,10,0,1,0,1,0,3,0,0
+77,24,Centre Forward,Stefan,Lamanna,S.Lamanna,York9,0,0,0,0,0,0.17,0,1,0.53,1,1,8,0,0,0,2,0,10,0,0
+137,18,Right Midfielder,Prince,Amanda,P. Amanda,Edmonton,1,1,0,0,0,0.16,1,1,0.41,1,1,9,0,1,3,6,1,2,0,0
+138,21,Centre Forward,Jace,Kotsopoulos,J. Kotsopoulos,Forge,5,5,0,0,1,1.72,2,0,0.04,0,1,5,0,0,1,2,0,2,0,0
+90,27,Goalkeeper,Colm,Vance,C. Vance,York9,0,0,0,0,0,0,0,0,0.04,0,1,1,0,0,0,1,1,1,0,4
+90,21,Left Winger,Gabriel,Bitar,G. Bitar,Cavalry,4,1,3,0,0,0.72,0,0,0.1,0,2,5,0,1,0,4,1,2,0,0
+88,20,Centre Forward,Vincent,Lamy,V. Lamy,HFX Wanderers,0,0,0,0,0,0.12,0,0,0,0,0,7,0,2,1,4,0,5,0,0
+50,33,Centre Attacking Midfielder,Marcel,de Jong,M. de Jong,Pacific,1,1,0,0,0,0.14,0,0,0.07,0,1,5,0,3,0,5,2,2,0,0
+90,28,Goalkeeper,Matthew,Silva,M. Silva,York9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+38,17,Left Back,Oluwaseun,Oyegunle,O.Oyegunle,Forge,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,3,1,0,0,0
+61,16,Second Striker,Aribim,Pepple,A. Pepple,Cavalry,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,1,0,3,0,0
+9,24,Left Attacking Midfielder,Oluwatofarati,Fakunle,O.Fakunle,Cavalry,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+14,24,Central Midfielder,Justin,Stoddart,J.Stoddart,Forge,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,3,1,1,0,0
+0,20,Sub - Attacker,Abd-El-Aziz,Yousef,A. Yousef,HFX Wanderers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,25,Sub - Goalkeeper,Tyrone,Venhola,T. Venhola,Pacific,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,19,Sub - Goalkeeper,Baj,Maan,B. Maan,Forge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,19,Sub - Goalkeeper,Chris,Ezoua,C. Ezoua,Edmonton,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,19,Sub - Goalkeeper,Svyatik,Artemenko,S. Artemenko,Valour,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,21,Sub - Goalkeeper,Luke,Iacobellis,L. Iacobellis,Forge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,28,Sub - Goalkeeper,Jordan,Santiago,J. Santiago,Cavalry,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,17,Sub - Goalkeeper,Sachdev,Grewal,S. Grewal,Pacific,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
